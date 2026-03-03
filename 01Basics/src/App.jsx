@@ -1,9 +1,7 @@
 
-import './App.css'
-
 function App() {
   return (
-    <h1>Hello World | Vansh Saini Lecture one React basics  </h1>
+    <h1>hello, React!</h1>
   )
 }
 
